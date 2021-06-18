@@ -1,6 +1,6 @@
 {
 	"name": "@thingbound/eslint-config-typescript",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "ESLint config used for @thingbound TypeScript projects",
 	"repository": "git://github.com/thingbound/eslint-config-typescript.git",
 	"main": "index.js",
@@ -10,14 +10,14 @@
 		"@thingbound/commitlint-config": "^1.0.0",
 		"husky": "^6.0.0"
 	},
-  "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.27.0",
-    "@typescript-eslint/parser": "^4.27.0",
-    "eslint": ">=7.0.0",
-    "eslint-plugin-import": "^2.23.4",
-    "eslint-plugin-jsdoc": "^35.3.0",
-    "eslint-plugin-tsdoc": "^0.2.14"
-  },
+	"peerDependencies": {
+		"@typescript-eslint/eslint-plugin": "^4.27.0",
+		"@typescript-eslint/parser": "^4.27.0",
+		"eslint": ">=7.0.0",
+		"eslint-plugin-import": "^2.23.4",
+		"eslint-plugin-jsdoc": "^35.3.0",
+		"eslint-plugin-tsdoc": "^0.2.14"
+	},
 	"dependencies": {},
 	"husky": {
 		"hooks": {
