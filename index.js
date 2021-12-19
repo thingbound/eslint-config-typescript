@@ -175,7 +175,6 @@ module.exports = {
 
 		'tsdoc/syntax': [ 'warn' ],
 		'jsdoc/check-alignment': [ 'warn' ],
-		'jsdoc/check-examples': [ 'warn' ],
 		'jsdoc/check-param-names': [ 'warn', {
 			checkDestructured: false
 		} ],
